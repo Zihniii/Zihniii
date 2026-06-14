@@ -53,7 +53,6 @@ I enjoy building products and turning ambiguous problems into structured solutio
 * Product Strategy
 * Business Intelligence
 * AI Product Development
-* Strategic Planning & Alignment
 
 > "Building useful products, learning continuously, and creating impact through technology."
 
